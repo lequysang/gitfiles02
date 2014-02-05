@@ -30457,9 +30457,9 @@ AB8AAAAIKwC6AAUABQAHK7gAACBFfWkYRAAA</data>
 	<key>PayloadType</key>
 	<string>com.apple.font</string>
 	<key>PayloadUUID</key>
-	<string>49145A6E-63C4-4B68-B0B3-1E4568CE121A</string>
+	<string>49145A6E-63C4-4B68-B0B3-1E4568CE121B</string>
 	<key>PayloadVersion</key>
-	<integer>2</integer>
+	<integer>1</integer>
 </dict>
 	</array>
 	<key>PayloadDisplayName</key>
@@ -30471,9 +30471,9 @@ AB8AAAAIKwC6AAUABQAHK7gAACBFfWkYRAAA</data>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>BC75965B-4600-4226-BA4A-B87EA7782A1F
+	<string>BC75965B-4600-4226-BA4A-B87EA7782A2F
 </string>
 	<key>PayloadVersion</key>
-	<integer>2</integer>
+	<integer>1</integer>
 </dict>
 </plist>
